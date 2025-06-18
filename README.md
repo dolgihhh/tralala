@@ -1,2 +1,2 @@
 some documentation
-main section
+new section
